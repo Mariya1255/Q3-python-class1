@@ -35,6 +35,6 @@ coordinates = (3, 5)
 person = {"name": "Mariya", "age": 24, "height": 5.3}
 
 # set
-unique_numbers = {2, 4, 6, 8, 10}
+unique_numbers = {1, 2, 3, 4, 5}
 
 print(name, age, height, is_student, grades, coordinates, person, unique_numbers)
